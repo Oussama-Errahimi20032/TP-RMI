@@ -1,6 +1,6 @@
 # TP-RMI
 This Java project is thoughtfully crafted to the management of rooms and machines using  Swing graphical user interface. It seamlessly integrates Hibernate for data persistence and utilizes RMI (Remote Method Invocation) for efficient client-server communication. In addition, the project incorporates JNDI (Java Naming and Directory Interface) for enhanced naming and directory services
-# Here's the description :
+# features:
 The application encompasses the following core features:
 - Machine Management:
 Allows for adding, removing, and modifying machines, with each machine being associated with a specific room.
