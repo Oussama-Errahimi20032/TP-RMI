@@ -41,7 +41,7 @@ Enables the addition, removal, and modification of rooms, each capable of contai
 
   ![modifiersalle](https://github.com/Oussama-Errahimi20032/TP-RMI/assets/147452642/4a1723db-e42a-4577-8563-a66540776c19)
 
-  -Delete romm
+  -Delete room
 
   ![supprimesalle](https://github.com/Oussama-Errahimi20032/TP-RMI/assets/147452642/bc6b08ea-6eaf-4bde-8454-32d075f07415)
 
